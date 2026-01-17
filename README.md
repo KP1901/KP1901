@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
  
-<p align="center" style="font-size: 24px;">Hi 👋, I'm Kiran</p>
+<h1 align="center">Hi 👋, I'm Kiran</h1>
+
 
 
 
