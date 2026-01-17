@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="64" height="64" alt="icons8-connect-64" src="https://github.com/user-attachments/assets/abaf5174-9002-4147-bfd3-0ba2e25e4f2d" /> how to reach me patodekarkiran@gmail.com
+<img width="30" height="30" alt="icons8-link-30" src="https://github.com/user-attachments/assets/21f68117-4c74-4fdd-89f3-2a89644de101" /> how to reach me patodekarkiran@gmail.com
