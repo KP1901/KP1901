@@ -48,4 +48,4 @@ Currently practicing and coding on Redmi
 ⭐ Always learning, always improving
 
 
-<img width="20" height="20" alt="icons8-link-30" src="https://github.com/user-attachments/assets/21f68117-4c74-4fdd-89f3-2a89644de101" />  how to reach me patodekarkiran@gmail.com
+
