@@ -2,7 +2,7 @@
 
 
 
-<p align="center" bg="red"><em>"Try again. Fail again. Fail better."</em></p>
+
 
 <!--
 **KP1901/KP1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  
 <h1 align="center">Hi👋 I'm Kiran</h1>
-
+<p align="center" bg="red"><em>"Try again. Fail again. Fail better."</em></p>
 
 
 
