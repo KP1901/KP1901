@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![compressed_under_1mb](https://github.com/user-attachments/assets/2c3d1570-c474-4e37-98e2-41882d6011b0)
 
-how to reach me patodekarkiran@gmail.com
+<img width="64" height="64" alt="icons8-connect-64" src="https://github.com/user-attachments/assets/abaf5174-9002-4147-bfd3-0ba2e25e4f2d" /> how to reach me patodekarkiran@gmail.com
