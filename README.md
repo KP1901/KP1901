@@ -18,20 +18,6 @@ Here are some ideas to get you started:
 
 ## Hi 👋, I'm Kiran  
 
-Full Stack Web Development Learner  
-Focused on JavaScript, Frontend, and Backend fundamentals  
-Learning by building real projects and improving step by step  
-Currently practicing and coding on Redmi  
-
----
-
-### 🧑‍💻 What I’m Learning
-- JavaScript (Core & Advanced)
-- HTML, CSS, Tailwind
-- Node.js & Backend Basics
-- Git & GitHub
-
----
 
 ### 🚀 What I’m Doing
 - Building small projects for practice  
