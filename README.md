@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![compressed_under_1mb](https://github.com/user-attachments/assets/2c3d1570-c474-4e37-98e2-41882d6011b0)
+
+how to reach me patodekarkiran@gmail.com
