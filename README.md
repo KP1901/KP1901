@@ -3,7 +3,6 @@
   <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1600&q=80" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kiran</h1>
 
 <p align="center"><em>"Try again. Fail again. Fail better."</em></p>
 
